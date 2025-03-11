@@ -4,7 +4,7 @@ This course covers from the very essential concepts for Python programming to ad
 
 The following are the project names for each day:
 1. Name creator -> DONE
-2. Commision calculator
+2. Commision calculator -> DONE
 3. Text Analyzer
 4. Guess the Numer game
 5. Hangged Man game
